@@ -64,6 +64,7 @@ If you just want to get things done with React, **you can skip learning ES6**, o
 You may see some talk about ES6 classes being the preferred way to create React components. This is untrue. Most people (including Facebook) are using `React.createClass()`.
 
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Learning routing
 
