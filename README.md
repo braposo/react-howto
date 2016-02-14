@@ -74,6 +74,8 @@ The most popular router in the React ecosystem is [react-router](https://github.
 
 **Don’t use a router if you aren’t building a single-page application**. Most projects start out as smaller components inside of a larger application anyway.
 
+* [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
+
 ## Learning Flux
 
 You’ve probably heard of Flux. There’s a *ton* of misinformation about Flux out there.
