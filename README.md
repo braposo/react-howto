@@ -88,6 +88,10 @@ React components are arranged in a hierarchy. Most of the time, your data model 
 
 If you have decided to use Flux, the most popular and well-documented Flux library is [Redux](http://redux.js.org/). There are *a lot* of alternatives out there, and you’ll be tempted to evaluate lots of them, but my advice is to just stick with the most popular one.
 
+* [Mobservable](https://mweststrate.github.io/mobservable/)
+* [Redux Loop](https://github.com/raisemarketplace/redux-loop)
+* [Redux Saga](https://github.com/yelouafi/redux-saga)
+
 ## Learning inline styles
 
 Pre-React, a lot of people reused CSS styles with complicated style sheets built by preprocessors like SASS. Since React makes writing reusable components easy, your stylesheets can be less complicated. Many in the community (including myself) are experimenting with getting rid of stylesheets altogether.
@@ -111,3 +115,8 @@ Server rendering still requires a lot of tooling to get right. Since it transpar
 ## Learning Relay, Falcor etc
 
 These are technologies that help you reduce the number of AJAX requests. They’re still very cutting-edge, so if you don’t have a problem with too many AJAX requests, you don’t need Relay or Falcor.
+
+## Learning Testing
+
+* [Enzyme](http://airbnb.io/enzyme/)
+* [Test-driven React Tutorial](http://spencerdixon.com/blog/test-driven-react-tutorial.html)
